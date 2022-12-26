@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SplashScreenTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_image</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.CoStudify" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/background_color</item>
+        <item name="colorPrimaryVariant">@color/highlight_color</item>
+        <item name="colorOnPrimary">@color/secondary_background_color</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/highlight_color</item>
+        <item name="colorSecondaryVariant">@color/secondary_background_color</item>
+        <item name="colorOnSecondary">@color/background_color</item>
+        <item name="android:windowBackground">@color/background_color</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/secondary_background_color</item>
+        <!-- Global Font.
+         -->
+    </style>
+    <style name="fonts">
+        <item name="android:fontFamily">@font/inter_medium</item>
+<!--        <item name="android:fontFamily">@font/inter_black</item>-->
+    </style>
+
+
+<!--    <style name="calendar.style" parent="android:style/TextAppearance">-->
+<!--        <item name="android:dateTextAppearance">@font/inter_extrabold</item>-->
+<!--        <item name="android:weekDayTextAppearance">@font/inter_medium </item>-->
+<!--        <item name="materialCalendarMonth">@font/inter_black</item>-->
+
+<!--    </style>-->
+</resources>

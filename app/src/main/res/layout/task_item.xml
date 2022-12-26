@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/taskItemLayout"
+    android:layout_width="match_parent"
+    android:layout_height="67dp"
+    android:layout_marginTop="20dp"
+    android:background="?attr/selectableItemBackground"
+    android:divider="@drawable/ic_mini_setting"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <View
+        android:id="@+id/taskColorIndicator"
+        android:layout_width="3dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/color_indicator" />
+
+    <CheckBox
+        android:id="@+id/taskArea"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start|center"
+        android:layout_marginStart="15dp"
+        android:layout_weight="3"
+        android:fontFamily="@font/inter_medium"
+        android:padding="15dp"
+        android:textColor="@color/text_color"
+        android:text="Hello"
+        android:buttonTint="@color/secondary_background_color"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/dueDate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|end"
+        android:layout_weight="1"
+        android:fontFamily="@font/inter_medium"
+        android:gravity="end"
+        android:padding="15dp"
+        android:text="21:00"
+        android:textColor="@color/highlight_color"
+        android:textSize="12sp" />
+</LinearLayout>

@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Co.Studify</string>
+    <!-- MISC STRINGS-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="burger">hamburger_menu</string>
+    <string name="agenda">AGENDA</string>
+    <string name="calendar">CALENDAR</string>
+    <string name="timetable">TIMETABLE</string>
+    <string name="clock">CLOCK</string>
+    <string name="setting">SETTINGS</string>
+    <string name="all_task">ALL TASK</string>
+    <string name="backDesc">Return to last page</string>
+    <string name="addBtnDesc">Add task</string>
+
+    <!-- DRAWER MENU-->
+    <string name="head">CO.STUDIFY</string>
+    <string name="all">ALL</string>
+    <string name="today">TODAY</string>
+    <string name="subject">SUBJECTS</string>
+    <string name="add_sub">+ ADD NEW SUBJECT</string>
+
+    <!-- BOTTOM NAV -->
+    <string name="task">Task</string>
+    <string name="calendar_bottom">Calendar</string>
+    <string name="timetable_bottom">Timetable</string>
+    <string name="clock_bottom">Clock</string>
+    <string name="setting_bottom">Settings</string>
+
+    <!-- CALENDAR -->
+    <string name="monday">MO</string>
+    <string name="tuesday">TU</string>
+    <string name="wednesday">WE</string>
+    <string name="thursday">TH</string>
+    <string name="friday">FR</string>
+    <string name="saturday">SA</string>
+    <string name="sunday">SU</string>
+    <string name="day_1">1</string>
+
+    <!-- ADD NOTES -->
+    <string name="newTask">ADD NEW TASK</string>
+    <string name="title">ADD TITLE</string>
+    <string name="dueDate">Due Date</string>
+    <string name="status">Status</string>
+    <string name="addContent">Add content here…</string>
+    <string name="select_due">select due</string>
+    <string name="pick_a_color">Pick a color</string>
+    <string name="pastel">Pastel</string>
+    <string name="minimalist">Minimal</string>
+    <string name="cottage_core">Cottage Core</string>
+    <string name="witch_of_waste">Witch of Waste</string>
+    <string name="add_image">Add image</string>
+    <string name="add_image_from_gallery">Add image from gallery</string>
+    <string name="add_url">Add URL</string>
+    <string name="options">Options</string>
+    <string name="open_as_note">Open as note</string>
+    <string name="open_as_task">Open as task</string>
+    <string name="delete">Delete</string>
+    <string name="created_date">Created date</string>
+    <string-array name="select_status">
+        <item>Ongoing</item>
+        <item>Done</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_notes">ADD NOTES</string>
+    <string name="policy_string">The Co.Studify as a Free app. This SERVICE is provided by the ABCG Team at no cost and is intended for use as is. \nThis page is used to inform visitors regarding the policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Services. \nIf you choose to use our Services, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. \nThe terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Co.Studify unless otherwise defined in this Privacy Policy.</string>
+    <string name="service_providers">We may employ third-party companies and individuals due to the following reasons: \n
+        To facilitate our Service; \n
+        To provide the Service on our behalf; \n
+        To perform Service-related services; or \n
+        To assist us in analyzing how our Service is used. \nWe want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. </string>
+    <string name="childrens_privacy">These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions. </string>
+    <string name="changes_to_policy">We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. \nThis policy is effective as of 2024–12–20</string>
+
+    <!-- NOTES   -->
+    <string name="contact_us">If you have any questions or suggestions about our app, do not hesitate to contact us at teamabcg06@gmail.com. </string>
+
+    <string name="devs">You may also follow our devs on their social media account \n \n<b>Sophia Granado</b> - https://www.facebook.com/Thekidwithforgottenmagic \n \n<b>Rochelle Cruz</b> - https://www.facebook.com/rochelle.cruz.9469/ \n \n<b>Anna Marie German</b> - https://www.facebook.com/annamarie.german.33\n \n<b>Lhoyd Andrew Bernabe</b> - https://www.facebook.com/aqwe08 \n \n<b>Mark Angelo Alcera</b> - https://www.facebook.com/Marknotmark.16101</string>
+    <string name="follow_our_devs_on_facebook">Follow our Devs on Facebook</string>
+    <string name="contact">Contact Us</string>
+    <string name="about">In 2022, Team ABCG developed this application, called Co.Studify App. This was made to help their fellow students in organizing their schoolwork. This program serves as a reminder for the tasks you need to accomplish and gives guidance on what you need to do. \n \nThe software will allow them to enjoy incredible learning experiences. It boosts students chances of participating in the learning process by allowing them to investigate areas of interest, such as their circumstances.</string>
+    <string name="about_us">About Us</string>
+
+</resources>

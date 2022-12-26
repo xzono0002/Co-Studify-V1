@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/allTask_btn"
+            android:icon="@drawable/all_task"
+            android:title="Notes" />
+<!--        <item-->
+<!--            android:id="@+id/today_btn"-->
+<!--            android:icon="@drawable/today_task"-->
+<!--            android:title="Task" />-->
+    </group>
+
+
+    <item android:title="SETTINGS">
+        <menu>
+<!--            <item-->
+<!--                android:title="Customize"-->
+<!--                android:id="@+id/customize"-->
+<!--                android:icon="@drawable/paint_icon"/>-->
+            <item
+                android:title="About Us"
+                android:id="@+id/aboutUs"
+                android:icon="@drawable/test_account"/>
+            <item
+                android:id="@+id/privacy_policy"
+                android:title="Privacy Policy"
+                android:icon="@drawable/privacy_policy"
+                />
+            <item
+                android:id="@+id/contact_us"
+                android:title="Contact Us"
+                android:icon="@drawable/mail" />
+        </menu>
+    </item>
+
+
+</menu>

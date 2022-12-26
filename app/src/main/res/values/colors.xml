@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Global Colors -->
+    <color name="background_color"> #e9ecef </color>
+    <color name="secondary_highlight_color">#ADB5BD</color>
+    <color name="highlight_color"> #495057 </color>
+    <color name="text_color"> #212529 </color>
+    <color name="secondary_background_color"> #212529 </color>
+    <color name="cta_delete">#EB3223</color>
+
+
+    <!-- Minimalist Theme -->
+    <color name="Gainsboro"> #dee2e6 </color>
+    <color name="Light_Gray"> #ced4da </color>
+    <color name="Sonic_Silver"> #6c757d </color>
+    <color name="Onyx"> #343a40 </color>
+    <color name="Eerie_Black"> #212529 </color>
+
+    <!-- Pastel Theme -->
+    <color name="Pink_Lavender">#CDB4DB</color>
+    <color name="Orchid_Pink">#FFC8DD</color>
+    <color name="Nadeshiko_Pink">#FFAFCC</color>
+    <color name="Uranian_Blue">#BDE0FE</color>
+    <color name="Baby_Blue_Eyes">#A2D2FF</color>
+
+    <!-- Cottage Core -->
+    <color name="Laurel_Green">#A4AC86</color>
+    <color name="Dark_Olive_Green">#656D4A</color>
+    <color name="Riffle_Green">#414833</color>
+    <color name="Kombu_Green">#333D29</color>
+    <color name="Seal_Brown">#582F0E</color>
+
+    <!-- Witch of the Waste -->
+    <color name="Periwinkle">#CCDCFF</color>
+    <color name="Maximum_Blue_Purple">#9A99F2</color>
+    <color name="Blue_Violet_Crayon_Purple">#805EBF</color>
+    <color name="Blue_Violet_Color">#511F73</color>
+    <color name="Russian_violet">#431259</color>
+    
+    <color name="my_spinner_text_color">@color/highlight_color</color>
+
+</resources>

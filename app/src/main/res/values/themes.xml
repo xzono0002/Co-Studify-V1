@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CoStudify" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/background_color</item>
+        <item name="colorPrimaryVariant">@color/highlight_color</item>
+        <item name="colorOnPrimary">@color/secondary_background_color</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/highlight_color</item>
+        <item name="colorSecondaryVariant">@color/secondary_highlight_color</item>
+        <item name="colorOnSecondary">@color/background_color</item>
+        <item name="android:windowBackground">@color/background_color</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/secondary_background_color</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.CoStudify">
+        <item name="android:spinnerDropDownItemStyle">@style/mySpinnerItemStyle</item>
+    </style>
+
+    <style name="mySpinnerItemStyle" parent="@android:style/Widget.Holo.DropDownItem.Spinner">
+        <item name="android:textColor">@color/my_spinner_text_color</item>
+    </style>
+    
+    <style name="Theme.Pastel" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@color/Pink_Lavender</item>
+
+    </style>
+
+
+
+</resources>
